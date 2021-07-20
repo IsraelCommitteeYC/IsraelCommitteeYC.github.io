@@ -21,8 +21,8 @@ body {
   color: red;
 }
 
-td {
-  margin: 10px;
+th, td {
+  padding: 10px;
   text-align: left;
   font-size: 200%;
 }
