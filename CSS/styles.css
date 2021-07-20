@@ -21,8 +21,8 @@ body {
   color: red;
 }
 
-.zoom_school {
-  font: italic;
+td {
+  margin: 10px;
+  text-align: left;
   font-size: 200%;
-  color: green;
 }
