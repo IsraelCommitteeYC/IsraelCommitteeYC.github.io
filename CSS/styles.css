@@ -21,8 +21,14 @@ body {
   color: red;
 }
 
+table {
+  border-style: groove;
+  border-color: blue;
+  border-width: thin;
+}
+
 th, td {
-  padding: 10px;
+  padding: 5%;
   text-align: left;
   font-size: 200%;
 }
