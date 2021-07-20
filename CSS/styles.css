@@ -20,3 +20,9 @@ body {
 #para2 {
   color: red;
 }
+
+.zoom_school {
+  font: italic;
+  font-size: 200%;
+  color: green;
+}
