@@ -1,5 +1,5 @@
 body {
-  background-color: #C8F3F1;
+  background-color: #CDF0EA;
 }
 
 .header {
@@ -7,24 +7,21 @@ body {
   font-size: 300%;
   font-style: italic;
   text-indent: true;
-  color: blue;
+  color: #8D2828;
 }
 
 .news p {
-  color: green;
+  color: #171010;
   text-align: center;
   font-style: italic;
   font-size: 200%;
 }
 
-#para2 {
-  color: red;
-}
-
 th, td {
-  padding: 10%;
+  padding: 1% 5% 1% 5%;
+  width: 15%;
   text-align: left;
   font-size: 200%;
-  font-style: italic;
-  color: blue;
+  font-style: arial;
+  color: #01937C;
 }
