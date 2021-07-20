@@ -21,14 +21,10 @@ body {
   color: red;
 }
 
-table {
-  border-style: groove;
-  border-color: blue;
-  border-width: thin;
-}
-
 th, td {
   padding: 5%;
   text-align: left;
   font-size: 200%;
+  font-style: italic;
+  color: blue;
 }
